@@ -33,4 +33,4 @@ pinned: false
 recommend: false
 recommend1: false
 ---
-Neverland是Klaytn网络上基于HOOK令牌的去中心化储备货币协议。每个挂钩代币都有梦幻岛财政部的一篮子资产（如KUSDT、KDAI）支持，使其具有无法低于的内在价值。梦幻岛还通过赌注和铸币将独特的经济和博弈论动态引入市场。
+![image-20220819150047049](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20220819150047049.png)Neverland是Klaytn网络上基于HOOK令牌的去中心化储备货币协议。每个挂钩代币都有梦幻岛财政部的一篮子资产（如KUSDT、KDAI）支持，使其具有无法低于的内在价值。梦幻岛还通过赌注和铸币将独特的经济和博弈论动态引入市场。

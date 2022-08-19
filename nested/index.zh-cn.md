@@ -33,7 +33,7 @@ pinned: false
 recommend: false
 recommend1: false
 ---
-Nested是一个社交交易平台，旨在将DeFi社交化。
+![image-20220819144436513](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20220819144436513.png)Nested是一个社交交易平台，旨在将DeFi社交化。
 
 在社交媒体和DeFi交易的十字路口，Nested是多链的，按规模构建，允许用户创建、复制、管理、更新、发送和共享加密策略-“嵌套投资组合”。
 
@@ -42,3 +42,5 @@ Nested是一个社交交易平台，旨在将DeFi社交化。
 在未来几个月内，Nested还将允许用户复制耕作和赌注策略
 
 Nested的团队致力于构建以用户为中心的应用程序，同时保持最高级别的分散化和安全性。
+
+![img](https://nested.fi/647b0e70f1c185316f8f7079a779c9d0.png)

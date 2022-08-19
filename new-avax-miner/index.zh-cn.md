@@ -33,6 +33,8 @@ pinned: false
 recommend: false
 recommend1: false
 ---
+![image-20220819150141235](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20220819150141235.png)
+
 你好新AVAXMINER准备好了吗
 
 享受敢达16%的每日奖励和5840%的投资回报率
